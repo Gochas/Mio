@@ -1,3 +1,3 @@
-# Cositas que arenos en el curso
+# Cositas que haremos en el curso
 
 - aprender paciencia
